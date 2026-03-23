@@ -1,0 +1,3 @@
+This file was created directly from the GitHub web interface.
+It demonstrates how changes made on the remote can be fetched and pulled to a local repository.
+Created as part of the Version Control with Git assignment - Step 19.
